@@ -16,7 +16,7 @@ class ListController extends Controller {
         name: '张三'
       }
     ];
-  },
+  }
   async age () {
     this.ctx.body = [
       {
