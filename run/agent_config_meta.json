@@ -1,0 +1,279 @@
+{
+  "keys": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/config/config.default.js",
+  "middleware": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/config/config.default.js",
+  "session": {
+    "maxAge": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg-session/config/config.default.js",
+    "key": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg-session/config/config.default.js",
+    "httpOnly": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg-session/config/config.default.js",
+    "encrypt": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg-session/config/config.default.js"
+  },
+  "security": {
+    "domainWhiteList": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg-security/config/config.default.js",
+    "protocolWhiteList": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg-security/config/config.default.js",
+    "defaultMiddleware": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg-security/config/config.default.js",
+    "csrf": {
+      "enable": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg-security/config/config.default.js",
+      "useSession": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg-security/config/config.default.js",
+      "ignoreJSON": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg-security/config/config.default.js",
+      "cookieName": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg-security/config/config.default.js",
+      "sessionName": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg-security/config/config.default.js",
+      "headerName": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg-security/config/config.default.js",
+      "bodyName": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg-security/config/config.default.js",
+      "queryName": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg-security/config/config.default.js"
+    },
+    "xframe": {
+      "enable": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg-security/config/config.default.js"
+    },
+    "hsts": {
+      "enable": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg-security/config/config.local.js",
+      "maxAge": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg-security/config/config.default.js",
+      "includeSubdomains": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg-security/config/config.default.js"
+    },
+    "dta": {
+      "enable": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg-security/config/config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg-security/config/config.default.js"
+    },
+    "noopen": {
+      "enable": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg-security/config/config.default.js"
+    },
+    "nosniff": {
+      "enable": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg-security/config/config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg-security/config/config.default.js"
+    },
+    "xssProtection": {
+      "enable": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg-security/config/config.default.js"
+    },
+    "csp": {
+      "enable": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg-security/config/config.default.js",
+      "policy": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg-security/config/config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg-security/config/config.default.js",
+      "checkAddress": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg-security/config/config.default.js"
+    }
+  },
+  "helper": {
+    "shtml": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg-security/config/config.default.js"
+  },
+  "jsonp": {
+    "limit": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg-jsonp/config/config.default.js",
+    "callback": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg-jsonp/config/config.default.js",
+    "csrf": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg-jsonp/config/config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg-onerror/config/config.default.js",
+    "appErrorFilter": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg-onerror/config/config.default.js",
+    "templatePath": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg-onerror/config/config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg-i18n/config/config.default.js",
+    "dirs": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg-i18n/config/config.default.js",
+    "queryField": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg-i18n/config/config.default.js",
+    "cookieField": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg-i18n/config/config.default.js"
+  },
+  "watcher": {
+    "type": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg-watcher/config/config.local.js",
+    "eventSources": {
+      "default": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg-watcher/config/config.default.js",
+      "development": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg-watcher/config/config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg-schedule/config/config.default.js",
+      "file": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg-schedule/config/config.default.js"
+    }
+  },
+  "multipart": {
+    "mode": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg-multipart/config/config.default.js",
+    "autoFields": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg-multipart/config/config.default.js",
+    "defaultCharset": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg-multipart/config/config.default.js",
+    "fieldNameSize": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg-multipart/config/config.default.js",
+    "fieldSize": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg-multipart/config/config.default.js",
+    "fields": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg-multipart/config/config.default.js",
+    "fileSize": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg-multipart/config/config.default.js",
+    "files": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg-multipart/config/config.default.js",
+    "fileExtensions": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg-multipart/config/config.default.js",
+    "whitelist": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg-multipart/config/config.default.js",
+    "tmpdir": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg-multipart/config/config.default.js",
+    "cleanSchedule": {
+      "cron": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg-multipart/config/config.default.js"
+    }
+  },
+  "development": {
+    "watchDirs": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg-development/config/config.default.js",
+    "ignoreDirs": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg-development/config/config.default.js",
+    "fastReady": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg-development/config/config.default.js",
+    "reloadOnDebug": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg-development/config/config.default.js",
+    "overrideDefault": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg-development/config/config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg-logrotator/config/config.default.js",
+    "hourDelimiter": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg-logrotator/config/config.default.js",
+    "maxFileSize": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg-logrotator/config/config.default.js",
+    "maxFiles": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg-logrotator/config/config.default.js",
+    "rotateDuration": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg-logrotator/config/config.default.js",
+    "maxDays": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg-logrotator/config/config.default.js"
+  },
+  "static": {
+    "prefix": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg-static/config/config.default.js",
+    "dir": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg-static/config/config.default.js",
+    "dynamic": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg-static/config/config.default.js",
+    "preload": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg-static/config/config.default.js",
+    "buffer": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg-static/config/config.default.js",
+    "maxFiles": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg-static/config/config.default.js"
+  },
+  "view": {
+    "root": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg-view/config/config.default.js",
+    "cache": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg-view/config/config.local.js",
+    "defaultExtension": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg-view/config/config.default.js",
+    "defaultViewEngine": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg-view/config/config.default.js",
+    "mapping": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg-view/config/config.default.js"
+  },
+  "env": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg/config/config.default.js",
+  "name": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg/config/config.default.js",
+  "proxy": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg/config/config.default.js",
+  "protocolHeaders": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg/config/config.default.js",
+  "ipHeaders": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg/config/config.default.js",
+  "hostHeaders": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg/config/config.default.js",
+  "pkg": {
+    "name": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg/config/config.default.js",
+    "version": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg/config/config.default.js",
+    "description": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg/config/config.default.js",
+    "private": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg/config/config.default.js",
+    "dependencies": {
+      "egg": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg/config/config.default.js",
+      "egg-scripts": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg/config/config.default.js"
+    },
+    "devDependencies": {
+      "autod": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg/config/config.default.js",
+      "autod-egg": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg/config/config.default.js",
+      "egg-bin": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg/config/config.default.js",
+      "egg-ci": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg/config/config.default.js",
+      "egg-mock": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg/config/config.default.js",
+      "eslint": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg/config/config.default.js",
+      "eslint-config-egg": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg/config/config.default.js",
+      "webstorm-disable-index": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg/config/config.default.js"
+    },
+    "engines": {
+      "node": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg/config/config.default.js"
+    },
+    "scripts": {
+      "start": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg/config/config.default.js",
+      "stop": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg/config/config.default.js",
+      "dev": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg/config/config.default.js",
+      "debug": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg/config/config.default.js",
+      "test": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg/config/config.default.js",
+      "test-local": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg/config/config.default.js",
+      "cov": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg/config/config.default.js",
+      "lint": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg/config/config.default.js",
+      "ci": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg/config/config.default.js",
+      "autod": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg/config/config.default.js"
+    },
+    "ci": {
+      "version": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg/config/config.default.js"
+    },
+    "repository": {
+      "type": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg/config/config.default.js",
+      "url": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg/config/config.default.js"
+    },
+    "author": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg/config/config.default.js",
+    "license": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg/config/config.default.js"
+  },
+  "baseDir": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg/config/config.default.js",
+  "HOME": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg/config/config.default.js",
+  "rundir": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg/config/config.default.js",
+  "dump": {
+    "ignore": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg/config/config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg/config/config.default.js",
+    "notFound": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg/config/config.default.js",
+    "sitefile": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg/config/config.default.js",
+    "middlewares": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg/config/config.default.js",
+    "httpClient": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg/config/config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg/config/config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg/config/config.default.js"
+  },
+  "bodyParser": {
+    "enable": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg/config/config.default.js",
+    "formLimit": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg/config/config.default.js",
+    "jsonLimit": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg/config/config.default.js",
+    "strict": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg/config/config.default.js",
+    "queryString": {
+      "arrayLimit": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg/config/config.default.js",
+      "depth": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg/config/config.default.js",
+      "parameterLimit": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg/config/config.default.js"
+    }
+  },
+  "logger": {
+    "dir": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg/config/config.default.js",
+    "env": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg/config/config.default.js",
+    "level": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg/config/config.default.js",
+    "consoleLevel": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg/config/config.default.js",
+    "disableConsoleAfterReady": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg/config/config.default.js",
+    "outputJSON": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg/config/config.default.js",
+    "buffer": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg/config/config.default.js",
+    "appLogName": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg/config/config.default.js",
+    "coreLogName": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg/config/config.default.js",
+    "agentLogName": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg/config/config.default.js",
+    "errorLogName": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg/config/config.default.js",
+    "coreLogger": {
+      "consoleLevel": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg/config/config.local.js"
+    },
+    "allowDebugAtProd": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg/config/config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg/config/config.default.js",
+    "dnsCacheLookupInterval": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxLength": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg/config/config.default.js",
+    "request": {
+      "timeout": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg/config/config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg/config/config.default.js",
+      "freeSocketKeepAliveTimeout": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg/config/config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg/config/config.default.js",
+      "freeSocketKeepAliveTimeout": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg/config/config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg/config/config.default.js",
+    "logging": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg/config/config.default.js"
+  },
+  "coreMiddleware": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg/config/config.default.js",
+  "workerStartTimeout": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg/config/config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg/config/config.default.js",
+      "port": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg/config/config.default.js",
+      "hostname": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg/config/config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg/config/config.default.js",
+    "responseTimeout": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg/config/config.default.js"
+  },
+  "onClientError": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg/config/config.default.js"
+}
