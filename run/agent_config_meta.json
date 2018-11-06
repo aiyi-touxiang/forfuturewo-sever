@@ -1,4 +1,7 @@
 {
+  "xframe": {
+    "enable": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/config/config.default.js"
+  },
   "keys": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/config/config.default.js",
   "middleware": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/config/config.default.js",
   "session": {

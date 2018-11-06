@@ -287,6 +287,9 @@
       "responseTimeout": 60000
     },
     "onClientError": null,
+    "xframe": {
+      "enable": false
+    },
     "middleware": [],
     "coreMiddlewares": "~config~coreMiddleware",
     "appMiddlewares": "~config~middleware",
