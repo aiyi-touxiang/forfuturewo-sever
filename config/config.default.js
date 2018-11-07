@@ -5,6 +5,9 @@ module.exports = appInfo => {
   config.xframe = {
     enable: false
   };
+  config.security = {
+    csrf: false
+  };
 
   // use for cookie sign key, should change to your own and keep security
   config.keys = appInfo.name + '_node javascript egg';

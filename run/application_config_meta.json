@@ -2,28 +2,11 @@
   "xframe": {
     "enable": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/config/config.default.js"
   },
-  "keys": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/config/config.default.js",
-  "middleware": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/config/config.default.js",
-  "session": {
-    "maxAge": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg-session/config/config.default.js",
-    "key": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg-session/config/config.default.js",
-    "httpOnly": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg-session/config/config.default.js",
-    "encrypt": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg-session/config/config.default.js"
-  },
   "security": {
+    "csrf": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/config/config.default.js",
     "domainWhiteList": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg-security/config/config.default.js",
     "protocolWhiteList": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg-security/config/config.default.js",
     "defaultMiddleware": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg-security/config/config.default.js",
-    "csrf": {
-      "enable": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg-security/config/config.default.js",
-      "useSession": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg-security/config/config.default.js",
-      "ignoreJSON": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg-security/config/config.default.js",
-      "cookieName": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg-security/config/config.default.js",
-      "sessionName": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg-security/config/config.default.js",
-      "headerName": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg-security/config/config.default.js",
-      "bodyName": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg-security/config/config.default.js",
-      "queryName": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg-security/config/config.default.js"
-    },
     "xframe": {
       "enable": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg-security/config/config.default.js",
       "value": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg-security/config/config.default.js"
@@ -61,6 +44,14 @@
       "ipBlackList": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg-security/config/config.default.js",
       "checkAddress": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg-security/config/config.default.js"
     }
+  },
+  "keys": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/config/config.default.js",
+  "middleware": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/config/config.default.js",
+  "session": {
+    "maxAge": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg-session/config/config.default.js",
+    "key": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg-session/config/config.default.js",
+    "httpOnly": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg-session/config/config.default.js",
+    "encrypt": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg-session/config/config.default.js"
   },
   "helper": {
     "shtml": "/Users/huweijian/Documents/github/forfuturewo/forfuturewo-sever/node_modules/egg-security/config/config.default.js"
